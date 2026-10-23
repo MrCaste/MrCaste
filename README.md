@@ -136,9 +136,6 @@ motto:     "Try Harder"
 
 </div>
 
----
-
-## `Snake`
 
 <div align="center">
 
