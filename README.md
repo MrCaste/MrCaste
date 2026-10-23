@@ -6,10 +6,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,6,20&height=220&section=header&text=MrCaste&fontSize=80&fontColor=00FF9C&fontAlignY=40&animation=twinkling&desc=Ethical%20Hacker%20%7C%20Pentester%20%7C%20CPTS%20Candidate&descSize=20&descAlignY=65&descColor=00E5FF" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,6,20&height=220&section=header&text=MrCaste&fontSize=80&fontColor=00FF9C&fontAlignY=40&animation=twinkling&desc=Ethical%20Hacker%20%7C%20Pentester%20%7C%20Security%20Enthusiast&descSize=20&descAlignY=65&descColor=00E5FF" alt="header"/>
 
 <a href="https://github.com/MrCaste">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%24+whoami+%3E+Pedro+%22Caste%22+Castellano;%24+sudo+nmap+-sC+-sV+-p-+target;%24+Hunting+vulnerabilities+%F0%9F%90%9B;%24+Preparing+HTB+CPTS+%F0%9F%8E%AF;%24+Try+Harder.+Learn+Always." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%24+whoami+%3E+Pedro+%22Caste%22+Castellano;%24+sudo+nmap+-sC+-sV+-p-+target;%24+Hunting+vulnerabilities+%F0%9F%90%9B;%24+Try+Harder.+Learn+Always." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Cybersecurity-00FF9C?style=for-the-badge&logo=hackthebox&logoColor=0D1117" />
 <img src="https://img.shields.io/badge/Pentesting-00E5FF?style=for-the-badge&logo=kalilinux&logoColor=0D1117" />
 <img src="https://img.shields.io/badge/Red%20Team-00FF9C?style=for-the-badge&logo=gnometerminal&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/CPTS-In%20Progress-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Linux-00E5FF?style=for-the-badge&logo=linux&logoColor=0D1117" />
 
 <br/><br/>
 
@@ -37,10 +37,9 @@ caste@MrRobot:~$ cat about.txt
 ```yaml
 name:      Pedro Castellano González  # "Caste"
 location:  Canary Islands, Spain 🌴
-status:    FP student @ CIFP — desarrollo + ciberseguridad
 focus:     Pentesting · Web Security · Active Directory · Linux
-goal:      HTB Certified Penetration Testing Specialist (CPTS)
-learning:  Spring Boot / Spring MVC (entender el código para romperlo mejor)
+stack:     Linux · Bash · Python · Java / Spring Boot
+workflow:  Arch-based setup, Hyprland, Neovim, todo desde la terminal
 motto:     "Try Harder"
 ```
 
@@ -53,40 +52,25 @@ motto:     "Try Harder"
 
 ---
 
-## 🎯 `Roadmap → CPTS`
-
-```text
-[██████████░░░░░░░░░░]  Fundamentos (redes, Linux, Windows)
-[████████████░░░░░░░░]  Enumeración & Footprinting
-[██████████████░░░░░░]  Web Attacks (SQLi, XSS, IDOR, LFI, XXE)
-[████████████░░░░░░░░]  Privilege Escalation (Linux / Windows)
-[██████████░░░░░░░░░░]  Active Directory Enumeration & Attacks
-[████████░░░░░░░░░░░░]  Pivoting, Tunneling & Port Forwarding
-[██████░░░░░░░░░░░░░░]  Reporting profesional
-```
-
-> ✏️ Ajusta las barras a tu progreso real. Cada `█` = 5 %.
+## `Áreas de trabajo`
 
 <div align="center">
 
-| Módulo CPTS | Estado |
-|:--|:--:|
-| Information Gathering · Web & Network | 🟢 |
-| Vulnerability Assessment | 🟢 |
-| File Transfers · Shells & Payloads · Metasploit | 🟡 |
-| Password Attacks · Attacking Common Services | 🟡 |
-| Pivoting · Tunneling · Port Forwarding | 🟠 |
-| Active Directory Enumeration & Attacks | 🟠 |
-| Web Attacks · SQLi · XSS · Command Injection | 🟡 |
-| Penetration Testing Process · Documentation & Reporting | 🔴 |
-
-<sub>🟢 dominado · 🟡 en progreso · 🟠 pendiente · 🔴 por empezar</sub>
+| Área | Qué hago |
+|:--|:--|
+| 🔎 **Reconocimiento** | Enumeración de puertos, servicios, subdominios y directorios |
+| 🌐 **Web** | SQLi · XSS · IDOR · LFI/RFI · XXE · Command Injection |
+| 🔓 **Explotación** | Shells, payloads, Metasploit y exploits manuales |
+| ⬆️ **Escalada de privilegios** | Linux y Windows |
+| 🏰 **Active Directory** | Enumeración y ataques (Kerberos, SMB, LDAP) |
+| 🕸️ **Pivoting** | Tunneling y port forwarding |
+| 📝 **Documentación** | Notas y reportes de cada máquina |
 
 </div>
 
 ---
 
-## 🛠️ `Arsenal`
+## `Arsenal`
 
 <div align="center">
 
@@ -123,7 +107,7 @@ motto:     "Try Harder"
 
 ---
 
-## 📡 `Terminal`
+## `Terminal`
 
 <div align="center">
 
@@ -133,7 +117,7 @@ motto:     "Try Harder"
 
 ---
 
-## 🏴‍☠️ `Hack The Box`
+## `Hack The Box`
 
 <div align="center">
 
@@ -142,15 +126,13 @@ motto:     "Try Harder"
   <img src="https://www.hackthebox.eu/badge/image/000000" alt="HTB Badge" />
 </a>
 
-<img src="https://img.shields.io/badge/HTB-Rank%3A%20Hacker-00FF9C?style=for-the-badge&logo=hackthebox&logoColor=0D1117&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Machines-Pwned-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=0D1117&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Methodology-S4vitar-00FF9C?style=for-the-badge&logo=gnometerminal&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Hack%20The%20Box-Player-00FF9C?style=for-the-badge&logo=hackthebox&logoColor=0D1117&labelColor=0D1117" />
 
 </div>
 
 ---
 
-## 📈 `Actividad`
+## `Actividad`
 
 <div align="center">
 
@@ -164,18 +146,18 @@ motto:     "Try Harder"
 
 ---
 
-## 🐍 `Snake`
+## `Snake`
 
 <div align="center">
 
-<!-- Requiere el workflow .github/workflows/snake.yml (incluido aparte) -->
+<!-- Requiere el workflow .github/workflows/snake.yml (el mismo de antes) -->
 <img src="https://raw.githubusercontent.com/MrCaste/MrCaste/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
 
 </div>
 
 ---
 
-## 🤝 `Contacto`
+## `Contacto`
 
 <div align="center">
 
