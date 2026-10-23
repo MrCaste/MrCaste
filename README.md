@@ -143,9 +143,9 @@ motto:     "Try Harder"
 
 <!-- Requiere el workflow .github/workflows/snake.yml (el mismo de antes) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrCaste/MrCaste/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrCaste/MrCaste/output/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/MrCaste/MrCaste/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrCaste/MrCaste/output/github-contribution-grid-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrCaste/MrCaste/output/github-contribution-grid-snake.svg?v=2" />
+  <img alt="snake" src="https://raw.githubusercontent.com/MrCaste/MrCaste/output/github-contribution-grid-snake-dark.svg?v=2" width="100%" />
 </picture>
 
 </div>
@@ -157,7 +157,7 @@ motto:     "Try Harder"
 <div align="center">
 
 <a href="https://github.com/MrCaste"><img src="https://img.shields.io/badge/GitHub-MrCaste-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0D1117&color=00FF9C" /></a>
-<a href="https://www.linkedin.com/in/pedro-castellano-gonzález-96035b2bb"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117&color=00E5FF" /></a>
+<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117&color=00E5FF" /></a>
 <a href="https://profile.hackthebox.com/profile/019ea28c-240b-7276-afe7-104ea81ce834"><img src="https://img.shields.io/badge/HackTheBox-Perfil-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9C&labelColor=0D1117&color=00FF9C" /></a>
 
 <br/><br/>
