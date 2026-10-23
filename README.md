@@ -100,19 +100,9 @@ motto:     "Try Harder"
 
 </details>
 
-## `Terminal`
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=800&height=90&lines=nmap+-p-+--min-rate+5000+-sS+-n+-Pn+10.10.11.X;ffuf+-u+http%3A%2F%2Ftarget%2FFUZZ+-w+raft-medium.txt;bloodhound-python+-d+corp.local+-u+user+-c+All;ssh+-D+9050+user%40pivot+%7C%7C+chisel+client+attacker%3A8000+R%3Asocks" alt="commands" />
-
-</div>
-
-## `Hack The Box`
-
-<div align="center">
-
-<a href="https://profile.hackthebox.com/profile/019ea28c-240b-7276-afe7-104ea81ce834"><img src="https://img.shields.io/badge/Hack%20The%20Box-Ver%20perfil-00FF9C?style=for-the-badge&logo=hackthebox&logoColor=0D1117&labelColor=0D1117" /></a>
 
 </div>
 
