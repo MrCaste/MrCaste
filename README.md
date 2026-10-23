@@ -121,12 +121,7 @@ motto:     "Try Harder"
 
 <div align="center">
 
-<!-- Sustituye 000000 por tu ID numérico de HTB (Perfil → URL) -->
-<a href="https://app.hackthebox.com/users/000000">
-  <img src="https://www.hackthebox.eu/badge/image/000000" alt="HTB Badge" />
-</a>
-
-<img src="https://img.shields.io/badge/Hack%20The%20Box-Player-00FF9C?style=for-the-badge&logo=hackthebox&logoColor=0D1117&labelColor=0D1117" />
+<a href="https://profile.hackthebox.com/profile/019ea28c-240b-7276-afe7-104ea81ce834"><img src="https://img.shields.io/badge/Hack%20The%20Box-Ver%20perfil-00FF9C?style=for-the-badge&logo=hackthebox&logoColor=0D1117&labelColor=0D1117" /></a>
 
 </div>
 
@@ -162,8 +157,8 @@ motto:     "Try Harder"
 <div align="center">
 
 <a href="https://github.com/MrCaste"><img src="https://img.shields.io/badge/GitHub-MrCaste-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0D1117&color=00FF9C" /></a>
-<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117&color=00E5FF" /></a>
-<a href="https://app.hackthebox.com/users/000000"><img src="https://img.shields.io/badge/HackTheBox-Perfil-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9C&labelColor=0D1117&color=00FF9C" /></a>
+<a href="https://www.linkedin.com/in/pedro-castellano-gonzález-96035b2bb"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117&color=00E5FF" /></a>
+<a href="https://profile.hackthebox.com/profile/019ea28c-240b-7276-afe7-104ea81ce834"><img src="https://img.shields.io/badge/HackTheBox-Perfil-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9C&labelColor=0D1117&color=00FF9C" /></a>
 
 <br/><br/>
 
