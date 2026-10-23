@@ -131,10 +131,6 @@ motto:     "Try Harder"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrCaste&bg_color=0D1117&color=00FF9C&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCaste&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" height="150" />
 
 </div>
@@ -146,7 +142,11 @@ motto:     "Try Harder"
 <div align="center">
 
 <!-- Requiere el workflow .github/workflows/snake.yml (el mismo de antes) -->
-<img src="https://raw.githubusercontent.com/MrCaste/MrCaste/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrCaste/MrCaste/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrCaste/MrCaste/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/MrCaste/MrCaste/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
