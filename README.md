@@ -76,7 +76,8 @@ motto:     "Try Harder"
 
 **Offensive / Pentesting**
 
-<img src="https://skillicons.dev/icons?i=linux,bash,kali,python,powershell,metasploit&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=linux,bash,kali,python,powershell&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Burp%20Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=00FF9C&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00E5FF&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=00FF9C&labelColor=0D1117" /><br/>
 
 **Desarrollo**
 
@@ -84,7 +85,7 @@ motto:     "Try Harder"
 
 **Entorno**
 
-<img src="https://skillicons.dev/icons?i=arch,neovim,vscode,wireshark,burpsuite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arch,neovim,vscode&theme=dark" />
 
 </div>
 
