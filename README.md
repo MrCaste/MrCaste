@@ -26,8 +26,6 @@
 
 </div>
 
----
-
 ## `~/whoami`
 
 ```bash
@@ -50,8 +48,6 @@ motto:     "Try Harder"
 
 </div>
 
----
-
 ## `Áreas de trabajo`
 
 <div align="center">
@@ -67,8 +63,6 @@ motto:     "Try Harder"
 | 📝 **Documentación** | Notas y reportes de cada máquina |
 
 </div>
-
----
 
 ## `Arsenal`
 
@@ -106,8 +100,6 @@ motto:     "Try Harder"
 
 </details>
 
----
-
 ## `Terminal`
 
 <div align="center">
@@ -116,8 +108,6 @@ motto:     "Try Harder"
 
 </div>
 
----
-
 ## `Hack The Box`
 
 <div align="center">
@@ -125,8 +115,6 @@ motto:     "Try Harder"
 <a href="https://profile.hackthebox.com/profile/019ea28c-240b-7276-afe7-104ea81ce834"><img src="https://img.shields.io/badge/Hack%20The%20Box-Ver%20perfil-00FF9C?style=for-the-badge&logo=hackthebox&logoColor=0D1117&labelColor=0D1117" /></a>
 
 </div>
-
----
 
 ## `Actividad`
 
@@ -147,8 +135,6 @@ motto:     "Try Harder"
 </picture>
 
 </div>
-
----
 
 ## `Contacto`
 
